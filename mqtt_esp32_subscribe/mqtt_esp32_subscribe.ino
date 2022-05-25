@@ -23,8 +23,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Sakina1322";
-const char* password = "abbas132246";
+const char* ssid = "YOUR-SSID";
+const char* password = "YOUR-PASSWORD";
 const char* mqtt_server = "test.mosquitto.org";
 
 WiFiClient espClient;
